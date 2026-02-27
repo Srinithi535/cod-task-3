@@ -1,4 +1,7 @@
 # cod-task-3
+
+Create a dashboard using the defined KPIs to reflect customer demographics and insights.
+Write a concise email to the engagement partner explaining your findings and providing suggestions for necessary changes based on the dashboard you've created.
 Retention Manager, PhoneNow
 
 I am here with the following I found from the provided dataset. The findings are as below: -
